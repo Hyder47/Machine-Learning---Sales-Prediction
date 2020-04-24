@@ -1,4 +1,4 @@
-# Machine-Learning---Sales-Prediction
+# Machine Learning Sales-Prediction
 
 Analysis of the efficiency of various regression algorithms in predicting future sales.
 
