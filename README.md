@@ -10,4 +10,4 @@ KNeighbour Regressor
 DecisionTree Regressor
 Random Forest Regressor
 
-**Note: Due to size limitations, file could not be uploaded.
+**Note: Due to size limitations, the data file could not be uploaded.
